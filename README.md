@@ -1,7 +1,11 @@
 虚拟鼠标键盘驱动程序，使用驱动程序执行鼠标键盘操作。
 
 
+一、项目编译：
+建议使用Visual Studio 2019；
 
+
+二、驱动安装：
 1、关闭签名校验，开启调试模式：
 bcdedit /set nointegritychecks on
 bcdedit /set testsigning on
@@ -17,6 +21,6 @@ cd G:\workspace_github\loki-hidriver\x64\Debug\KMDFDriver
 C:\Windows\INF\setupapi.dev.log
 
 
-4、项目来源：
+三、项目来源：
 目前只是针对win10做些兼容性调整，主体代码来源于loki-hidriver项目，感谢原开发者hedgar2017：
 https://github.com/hedgar2017/loki-hidriver
