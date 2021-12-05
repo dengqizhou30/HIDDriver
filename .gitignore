@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/HIDDriver/x64/Release
+/HIDDriverLib/x64/Release
+/HIDDriverLibTest/x64/Release
+/x64/Release
