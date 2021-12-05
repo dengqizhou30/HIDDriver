@@ -7,3 +7,7 @@
 /HIDDriverLib/x64/Release
 /HIDDriverLibTest/x64/Release
 /x64/Release
+/HIDDriver/x64/Debug
+/HIDDriverLib/x64/Debug
+/HIDDriverLibTest/x64/Debug
+/x64/Debug
